@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Praveena Somasundaram",
+            "title": "Two friends stayed in a pool for hours before escaping Maui wildfires - The Washington Post",
+            "description": "Kristina Lee-Garrido, 54, and a friend stood in a pool for hours as the Maui wildfires raged around them before they were rescued by firefighters.",
+            "url": "https://www.washingtonpost.com/nation/2023/08/17/lahaina-maui-wildfire-pool-rescue/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-17-2023/t_a393a197b6ab4c02881aed57b0ab373d_name_maui_fire_pool.png&w=1440",
+            "publishedAt": "2023-08-17T10:40:52Z",
+            "content": "Kristina Lee-Garrido watched as flames burned the buildings around her and smoke clouded the air in Lahaina, Hawaii, making it hard to breathe.\r\nLee-Garrido and a friend stood with washcloths held ov… [+4497 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Dean, Issy Ronald",
+            "title": "Michael Parkinson, UK chat show host and presenter, dies age 88 - CNN",
+            "description": "Veteran British broadcaster Michael Parkinson has died at the age of 88, his former employer the BBC reported Thursday, citing a statement from his family.",
+            "url": "https://www.cnn.com/2023/08/17/entertainment/michael-parkinson-death-intl-scli/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817103448-michael-parkinson-1987.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T10:28:00Z",
+            "content": "Veteran British broadcaster Michael Parkinson has died at the age of 88, his former employer the BBC reported Thursday, citing a statement from his family.\r\nAfter a brief illness Sir Michael Parkinso… [+1191 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Texas woman charged with threatening to kill judge overseeing Trump’s federal election interference case - CNN",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
+            "urlToImage": null,
+            "publishedAt": "2023-08-17T09:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war at a glance: what we know on day 540 of the invasion - The Guardian",
+            "description": "Nato official apologises for saying Ukraine could give up territory to Russia; Russia shoots down Ukrainian drones near Moscow",
+            "url": "https://www.theguardian.com/world/2023/aug/17/russia-ukraine-war-at-a-glance-what-we-know-on-day-540-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/52650615afe31e5b967e22f849b6c51ed60ca094/0_11_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6709ec206c70b1d11d90fb3d4104680",
+            "publishedAt": "2023-08-17T09:45:00Z",
+            "content": "<li>A senior Nato official has apologised and clarified his comments, a day after he said publicly that Ukraine could give up territory to Russia in exchange for Nato membership and an end to the war… [+3096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Alexandra Bellusci",
+            "title": "Britney Spears Shares Cryptic Message Amid Sam Asghari Breakup - E! NEWS",
+            "description": "Britney Spears returned to social media after news broke that she and husband Sam Asghari are divorcing following one year of marriage.",
+            "url": "https://www.eonline.com/news/1383284/britney-spears-shares-cryptic-message-amid-sam-asghari-breakup",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021725/rs_1200x1200-210825164425-1200-Britney-Spears-Sam-Asghari-mp.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-08-17T09:43:00Z",
+            "content": "Britney Spears is ready to roar after her split from husband Sam Asghari.\r\nHours after multiple outlets reported that the singer and her husband are parting ways after about 14 months of marriage, Br… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Meg Linehan and The Athletic Staff",
+            "title": "USWNT’s Vlatko Andonovski resigns; coach drawing interest from multiple teams globally: Source - The Athletic",
+            "description": "The 46-year-old Andonovski oversaw a disappointing World Cup campaign as the side was knocked out at the last-16 stage by Sweden.",
+            "url": "https://theathletic.com/4756777/2023/08/16/vlatko-andonovski-uswnt-head-coach/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/08/01065348/GettyImages-1584782991-scaled.jpg",
+            "publishedAt": "2023-08-17T09:36:44Z",
+            "content": "Vlatko Andonovski has resigned as coach of the U.S. womens national team, a source briefed on Andonovskis status confirmed to The Athletic on Wednesday. The source was granted anonymity because they … [+2534 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ankur Banerjee, Alun John",
+            "title": "U.S. 10-year yield at highest since October, drags on shares - Reuters",
+            "description": "The U.S. 10-year treasury yield on Thursday reached its highest in 10 months, underpinned by fears that U.S. interest rates might stay higher for longer, contributing, along with China's economic woes, to world stocks languishing at five-week lows.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-08-17/",
+            "urlToImage": "https://www.reuters.com/resizer/BzSz7Tj-waNdHdyHzHr6LuJgdDU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HLM3ZF2YAZM6ZB4NLS5POR7QUE.jpg",
+            "publishedAt": "2023-08-17T09:09:00Z",
+            "content": "SINGAPORE/LONDON, Aug 17 (Reuters) - The U.S. 10-year treasury yield on Thursday reached its highest in 10 months, underpinned by fears that U.S. interest rates might stay higher for longer, contribu… [+4176 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Mubasher Bukhari, Asif Shahzad",
+            "title": "Troops guard Pakistani Christians after mob torches churches - Reuters",
+            "description": "Paramilitary troops have cordoned off a Christian settlement in eastern Pakistan where a Muslim mob vandalised and torched several churches and scores of houses after two men living there were accused of desecrating the Koran, police and witnesses said on Thu…",
+            "url": "https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17/",
+            "urlToImage": "https://www.reuters.com/resizer/8h-PggwuLLEgURrd_fxkiyG35Vo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFXHJHDNKJMYHDNYI266JJFU5M.jpg",
+            "publishedAt": "2023-08-17T08:48:00Z",
+            "content": "LAHORE, Pakistan, Aug 17 (Reuters) - Paramilitary troops have cordoned off a Christian settlement in eastern Pakistan where a Muslim mob vandalised and torched several churches and scores of houses a… [+2911 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Pence spoiling for a debate showdown with Trump - POLITICO",
+            "description": "‘We’ve been waiting for this for a while,’ the former vice president’s senior adviser told POLITICO.",
+            "url": "https://www.politico.com/news/2023/08/17/pence-debate-showdown-trump-00111589",
+            "urlToImage": "https://static.politico.com/f1/b5/bb558f5149748158bfa973e98598/election-2024-iowa-state-fair-23773.jpg",
+            "publishedAt": "2023-08-17T08:30:00Z",
+            "content": "Now, Pence is relishing the opportunity to draw a contrast with Trump according to two senior aides and two longtime friends and allies.\r\nWere ready, Marc Short, Pences senior adviser, told POLITICO.… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Yadarisa Shabong",
+            "title": "BAE Systems snaps up Ball Corp's aerospace arm for about $5.55 billion - Reuters",
+            "description": "Britain's BAE Systems <a href=\"https://www.reuters.com/markets/companies/BAES.L\" target=\"_blank\">(BAES.L)</a> on Thursday agreed to buy Ball Corp's <a href=\"https://www.reuters.com/markets/companies/BALL.N\" target=\"_blank\">(BALL.N)</a> aerospace assets for ab…",
+            "url": "https://www.reuters.com/markets/deals/uks-bae-systems-buy-ball-aerospace-about-555-bln-2023-08-17/",
+            "urlToImage": "https://www.reuters.com/resizer/Z-R59r_sPnZwO32WTntU12twzzY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RIA3JJT47BLD3OGK4WSDOWXKTU.jpg",
+            "publishedAt": "2023-08-17T08:00:00Z",
+            "content": "Aug 17 (Reuters) - Britain's BAE Systems (BAES.L) on Thursday agreed to buy Ball Corp's (BALL.N) aerospace assets for about $5.55 billion in cash, snapping up a key U.S. contractor in areas such as n… [+2319 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mitchell McCluskey, Aya Elamroussi",
+            "title": "Hundreds of wildfires raging in Canada’s Northwest Territories prompt evacuations in what officials are calling a ‘crisis situation’ - CNN",
+            "description": "Hundreds of wildfires raging in parts of Canada’s Northwest Territories have prompted officials to issue evacuation orders and declare a state of emergency as the blazes threaten the capital city of Yellowknife.",
+            "url": "https://www.cnn.com/2023/08/16/americas/canada-northwest-territories-wildfires-thursday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816214344-01-northwest-territories-wildfire-081523.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T07:48:00Z",
+            "content": "Hundreds of wildfires raging in parts of Canadas Northwest Territories have prompted officials to issue evacuation orders and declare a state of emergency as the blazes threaten the capital city of Y… [+4729 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "Two research teams detail advancements in transplanting pig kidneys to humans, marking key steps on path to clinical trials - CNN",
+            "description": "New advancements in transplanting pig kidneys to humans, detailed by two separate research teams on Wednesday, mark key steps forward in the evolving field of xenotransplantation, the use of non-human tissues or organs to treat medical conditions in humans.",
+            "url": "https://www.cnn.com/2023/08/16/health/pig-human-kidney-transplant-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230816111652-01-pig-kidney-transplant.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T05:49:00Z",
+            "content": "New advancements in transplanting pig kidneys to humans, detailed by two separate research teams on Wednesday, mark key steps forward in the evolving field of xenotransplantation, the use of non-huma… [+4320 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "North Carolina Legislature overrides vetoes on trans rights - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/08/17/nc-republicans-override-vetoes-controversial-bills-lgbtq-charter-schools",
+            "urlToImage": null,
+            "publishedAt": "2023-08-17T05:06:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russian spacecraft reaches lunar orbit in preparation for moon landing - Al Jazeera English",
+            "description": "Russia’s Luna-25 space probe enters lunar orbit in first Russian mission to the moon in almost 50 years.",
+            "url": "https://www.aljazeera.com/news/2023/8/17/russian-spacecraft-reaches-lunar-orbit-in-preparation-for-moon-landing",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/2023-08-16T132010Z_971996618_RC2TSB7W8D6L_RTRMADP_3_RUSSIA-SPACE-LANDER-1692246623.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-08-17T05:02:20Z",
+            "content": "Russias lunar spacecraft has entered the moons orbit, a major step for the first Russian moon mission in almost 50 years and Moscows ambition to be the first to land on the moons south pole in the se… [+2278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Yes, the RICO Act was created to prosecute the Mafia and other mobsters - KTVB",
+            "description": "Former President Trump is charged with violating Georgia’s RICO Act, which is based on a federal law that was designed to take down the Mob.",
+            "url": "https://www.youtube.com/watch?v=GdF2YnKpjRQ",
+            "urlToImage": "https://i.ytimg.com/vi/GdF2YnKpjRQ/hqdefault.jpg",
+            "publishedAt": "2023-08-17T04:57:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung",
+            "title": "NBA star James Harden sells out 10,000 bottles of wine in seconds on Chinese livestream - CNN",
+            "description": "NBA star James Harden expressed disbelief after Chinese fans snapped up 10,000 bottles of his own-branded wine in seconds, demonstrating the massive reach of livestreaming in the country, where basketball is loved by millions.",
+            "url": "https://www.cnn.com/2023/08/17/china/james-harden-nba-china-livestream-wine-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814110238-01-james-harden-trade-rumors.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-17T04:55:00Z",
+            "content": "NBA star James Harden expressed disbelief after Chinese fans snapped up 10,000 bottles of his own-branded wine in seconds, demonstrating the massive reach of livestreaming in the country, where baske… [+3539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Holiday Mathis",
+            "title": "Today's daily horoscope for Aug. 17, 2023 - nj.com - NJ.com",
+            "description": "Zodiac signs and horoscopes on 8/17/2023 for Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
+            "url": "https://www.nj.com/advice/2023/08/todays-daily-horoscope-for-aug-17-2023.html",
+            "urlToImage": "https://www.nj.com/resizer/y0GkxcEcKp6NoyUc0LAtx7APmMY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAGJVB5QCZCNFBN2U2NE2O4GTE.png",
+            "publishedAt": "2023-08-17T04:01:00Z",
+            "content": "Last Breaths of Leo Season\r\nThe wake of the new moon brings a charged pause -- the anticipatory silence, like the moment in a concert right before the artist comes onto the stage. Mysterious shadows … [+4015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Chandrayaan-3 mission nears final landing as Vikram lander set to begin separate journey today |WION - WION",
+            "description": "After a successful manoeuvre on Wednesday, the Indian Space Research Organization (ISRO) achieved a nearly circular orbit which positioned the spacecraft int...",
+            "url": "https://www.youtube.com/watch?v=BcZYwI867RA",
+            "urlToImage": "https://i.ytimg.com/vi/BcZYwI867RA/maxresdefault.jpg",
+            "publishedAt": "2023-08-17T03:49:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "New York State Department releases guidance after 3 dead from flesh-eating bacteria in New York, Connecticut - New York Post ",
+            "description": "The state Department of Public Health said that there are three people known to have been infected with the Vibrio vulnificus bacteria.",
+            "url": "https://nypost.com/2023/08/16/ny-health-department-releases-guidance-after-3-die-from-flesh-eating-bacteria/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/Untitled-1-24.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-08-17T03:46:00Z",
+            "content": "The New York State Health Department released guidance for residents to identify a flesh-eating bacterium that has claimed the lives of one New York resident and two Connecticut residents over the su… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "Live Coverage: SpaceX to launch Starlink missions from both coasts tonight – Spaceflight Now - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2023/08/16/spacex-to-launch-starlink-missions-from-both-coasts-tonight/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-17T02:37:30Z",
+            "content": "Update 5:30 a.m. EDT/0930 UTC): \r\nSpaceX has delayed the Starlink Group 7-1 mission to Friday at 12:30 a.m. PDT (3:30 a.m. EDT (0430 UTC). No explanation was given.\r\nUpdate (10:10 p.m. EDT/0210 UTC):… [+2879 chars]"
+        }
+    ]
+}
